@@ -773,7 +773,11 @@ header
 }
 
 
-
+@media screen and (max-width: 625px) {
+  .Modern-Slider .item a.main-stroked-button {
+    display: none;
+  }
+}
 
 /* 
 ---------------------------------------------
