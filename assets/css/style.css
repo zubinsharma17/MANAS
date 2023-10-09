@@ -906,20 +906,22 @@ ul.slick-dots {
   margin-bottom: 25px;
   font-size: 16px;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: bolder;
   letter-spacing: 1px;
   color:#FFF;
   animation:fadeOutRight 1s both;
+  text-shadow: 2px 2px 10px #5fb759;
 }
 
 .Modern-Slider .item h5 {
   margin-bottom: 50px;
   font-size: 36px;
-  font-weight: 200;
+  font-weight: bolder;
   letter-spacing: 2.5px;
   color:#FFF;
   overflow:hidden;
   animation:fadeOutLeft 1s both;
+  text-shadow: 2px 2px 10px #5fb759;
 }
 
 .Modern-Slider .item a {
@@ -958,6 +960,20 @@ ul.slick-dots {
 .slick-initialized .slick-slide{display:block}
 .slick-loading .slick-slide{visibility:hidden}
 .slick-vertical .slick-slide{display:block;height:auto;border:1px solid transparent}
+
+
+/* 
+
+future
+
+ */
+
+#future .main-filled-button{
+  margin-top: 50px;
+
+}
+
+
 
 /*
 ---------------------------------------------
